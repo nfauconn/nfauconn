@@ -1,4 +1,4 @@
-<h2> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5vZmhxemF1bnc0eDk1aWtldm54Z2xycDF4MjJzdXpmemlyejZiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ODRAKvOKYPNxPCBsPa/giphy.gif" width="50">𝙷𝚒, 𝙸'𝚖 𝙽𝚘𝚎 !</h2>
+<h2> <img src="https://media0.giphy.com/media/bnzH3tEHjdDuU/giphy.webp?cid=ecf05e47j4g2yreyzwzndtpr0yx2011nsugqohj6e78d3k00&ep=v1_gifs_search&rid=giphy.webp&ct=s" height="30"> 𝙷𝚒, 𝙸'𝚖 𝙽𝚘𝚎 !</h2>
 
 - 🎓 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚝 [𝙴𝚌𝚘𝚕𝚎 𝟺𝟸 𝙿𝚊𝚛𝚒𝚜](https://42.fr/en/homepage/)
 - 🏁 𝙵𝚒𝚗𝚒𝚜𝚑𝚎𝚍 𝚝𝚑𝚎 𝚌𝚘𝚖𝚖𝚘𝚗 𝚌𝚘𝚛𝚎
