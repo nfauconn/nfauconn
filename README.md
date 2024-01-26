@@ -6,7 +6,7 @@
 - 🎮 𝙼𝚞𝚜𝚒𝚌 • 𝙶𝚊𝚖𝚎𝚜 • 𝙲𝚘𝚍𝚎 • 𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝 𝙰𝚛𝚝 • 𝙰𝚗𝚒𝚖𝚎 
 
 
-<h2> <img src="https://giphy.com/gifs/1-bc1-ballcat-fdt4RGJKIi1ZbIhPvn" width="50"></img> 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 </h2>
+<h2> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ptMG1hY2Z2YW9namk0bjVwOHRic3RtZTYwZ2I0OWhueHJwZ3dtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fdt4RGJKIi1ZbIhPvn/giphy.gif" width="50"></img> 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 </h2>
 
 | 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 | 𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 | 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎/𝚃𝚎𝚌𝚑
 |:--:|:--:| :--: |
