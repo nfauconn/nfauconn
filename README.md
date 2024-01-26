@@ -3,7 +3,7 @@
 - 🎓 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚝 [𝙴𝚌𝚘𝚕𝚎 𝟺𝟸 𝙿𝚊𝚛𝚒𝚜](https://42.fr/en/homepage/)
 - 🏁 𝙵𝚒𝚗𝚒𝚜𝚑𝚎𝚍 𝚝𝚑𝚎 𝚌𝚘𝚖𝚖𝚘𝚗 𝚌𝚘𝚛𝚎
 - 📟 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝𝚒𝚌 𝙻𝚒𝚗𝚞𝚡 𝚞𝚜𝚎𝚛
-- 🎮 𝙼𝚞𝚜𝚒𝚌 • 𝙶𝚊𝚖𝚎𝚜 • 𝙲𝚘𝚍𝚎 • 𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝 𝙰𝚛𝚝 • 𝙰𝚗𝚒𝚖𝚎 
+- 🎮 𝙼𝚞𝚜𝚒𝚌 • 𝙶𝚊𝚖𝚎𝚜 • 𝙲𝚘𝚍𝚎 • 𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝 𝙰𝚛𝚝 • 𝙰𝚗𝚒𝚖𝚎 • 𝙼𝚘𝚟𝚒𝚎𝚜
 
 
 <h2> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlqcGp3a2xoNGJiNHlwc2Jkd3EzY3plZTc2dTZyaDJ0OWFianZjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFy6JPjkjM9GDHykZo/giphy.gif" width="50"></img> 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 </h2>
