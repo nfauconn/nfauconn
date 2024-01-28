@@ -5,13 +5,15 @@
 - 📟 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝𝚒𝚌 𝙻𝚒𝚗𝚞𝚡 𝚞𝚜𝚎𝚛
 - 🎮 𝙼𝚞𝚜𝚒𝚌 • 𝙶𝚊𝚖𝚎𝚜 • 𝙲𝚘𝚍𝚎 • 𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝 𝙰𝚛𝚝 • 𝙰𝚗𝚒𝚖𝚎 • 𝙼𝚘𝚟𝚒𝚎𝚜
 
-<!-- PUT CONFIG -->
+<!-- PUT CONFIG  (and linux config in hobbies ?)
+tools VSCode Vim motions split keyboard -->
 
 <h2> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlqcGp3a2xoNGJiNHlwc2Jkd3EzY3plZTc2dTZyaDJ0OWFianZjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFy6JPjkjM9GDHykZo/giphy.gif" width="50"></img> 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 </h2>
 
 
 | 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 | 𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 | 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎/𝚃𝚎𝚌𝚑
 |:--:|:--:| :--: |
+[𝚙𝚑𝚒𝚕𝚘𝚜𝚘𝚙𝚑𝚎𝚛𝚜](https://github.com/nfauconn/philosophers) | 𝙿𝚛𝚘𝚋𝚕𝚎𝚖 𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚖𝚞𝚕𝚝𝚒𝚝𝚑𝚛𝚎𝚊𝚍𝚒𝚗𝚐 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) ![makefile](https://img.shields.io/badge/-Makefile-%23181717?logo=gnubash) ![git](https://img.shields.io/badge/-git-%23181717?logo=git) |
 [𝚖𝚒𝚗𝚒𝚝𝚊𝚕𝚔](https://github.com/nfauconn/minitalk) | 𝙱𝚒𝚝-𝚕𝚎𝚟𝚎𝚕 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚙𝚛𝚘𝚐𝚛𝚊𝚖 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) ![makefile](https://img.shields.io/badge/-Makefile-%23181717?logo=gnubash) ![git](https://img.shields.io/badge/-git-%23181717?logo=git) |
 [𝚜𝚘_𝚕𝚘𝚗𝚐](https://github.com/nfauconn/so_long) | 𝟸𝙳 𝚖𝚒𝚗𝚒 𝚐𝚊𝚖𝚎 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) ![makefile](https://img.shields.io/badge/-Makefile-%23181717?logo=gnubash) ![git](https://img.shields.io/badge/-git-%23181717?logo=git) |
 [𝚙𝚞𝚜𝚑_𝚜𝚠𝚊𝚙]() | 𝚂𝚘𝚛𝚝𝚒𝚗𝚐 𝚊𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) ![makefile](https://img.shields.io/badge/-Makefile-%23181717?logo=gnubash) ![git](https://img.shields.io/badge/-git-%23181717?logo=git) |
