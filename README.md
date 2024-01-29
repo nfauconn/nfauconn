@@ -13,6 +13,7 @@ tools VSCode Vim motions split keyboard -->
 
 | 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 | 𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 | 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎/𝚃𝚎𝚌𝚑
 |:--:|:--:| :--: |
+[𝚖𝚒𝚗𝚒𝚜𝚑𝚎𝚕𝚕](https://github.com/nfauconn/minishell) | 𝙸𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚋𝚊𝚜𝚑 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) ![makefile](https://img.shields.io/badge/-Makefile-%23181717?logo=gnubash) ![git](https://img.shields.io/badge/-git-%23181717?logo=git) |
 [𝚙𝚑𝚒𝚕𝚘𝚜𝚘𝚙𝚑𝚎𝚛𝚜](https://github.com/nfauconn/philosophers) | 𝙿𝚛𝚘𝚋𝚕𝚎𝚖 𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚖𝚞𝚕𝚝𝚒𝚝𝚑𝚛𝚎𝚊𝚍𝚒𝚗𝚐 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) ![makefile](https://img.shields.io/badge/-Makefile-%23181717?logo=gnubash) ![git](https://img.shields.io/badge/-git-%23181717?logo=git) |
 [𝚖𝚒𝚗𝚒𝚝𝚊𝚕𝚔](https://github.com/nfauconn/minitalk) | 𝙱𝚒𝚝-𝚕𝚎𝚟𝚎𝚕 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚙𝚛𝚘𝚐𝚛𝚊𝚖 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) ![makefile](https://img.shields.io/badge/-Makefile-%23181717?logo=gnubash) ![git](https://img.shields.io/badge/-git-%23181717?logo=git) |
 [𝚜𝚘_𝚕𝚘𝚗𝚐](https://github.com/nfauconn/so_long) | 𝟸𝙳 𝚖𝚒𝚗𝚒 𝚐𝚊𝚖𝚎 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) ![makefile](https://img.shields.io/badge/-Makefile-%23181717?logo=gnubash) ![git](https://img.shields.io/badge/-git-%23181717?logo=git) |
