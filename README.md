@@ -23,3 +23,14 @@ tools VSCode Vim motions split keyboard -->
 [𝚏𝚝_𝚙𝚛𝚒𝚗𝚝𝚏](https://github.com/nfauconn/ft_printf) | 𝙲𝚞𝚜𝚝𝚘𝚖 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚙𝚛𝚒𝚗𝚝𝚏 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) ![makefile](https://img.shields.io/badge/-Makefile-%23181717?logo=gnubash) ![git](https://img.shields.io/badge/-git-%23181717?logo=git) |
 [𝚐𝚎𝚝_𝚗𝚎𝚡𝚝_𝚕𝚒𝚗𝚎](https://github.com/nfauconn/get_next_line) | 𝙲𝚞𝚜𝚝𝚘𝚖 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚐𝚎𝚝𝚕𝚒𝚗𝚎 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) ![git](https://img.shields.io/badge/-git-%23181717?logo=git)|
 [𝚕𝚒𝚋𝚏𝚝](https://github.com/nfauconn/libft) | 𝙲𝚞𝚜𝚝𝚘𝚖 𝚜𝚝𝚊𝚗𝚍𝚊𝚛𝚍 𝙲 𝚕𝚒𝚋𝚛𝚊𝚛𝚢 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) ![makefile](https://img.shields.io/badge/-Makefile-%23181717?logo=gnubash) ![git](https://img.shields.io/badge/-git-%23181717?logo=git) |
+
+
+
+<!--
+- **Language**: The project must be written in C.
+- **Norm Compliance**: Code must adhere to the Norm of the school.
+- **Error Handling**: Programs should not exit unexpectedly (e.g., segmentation fault, bus error, double free). Such incidents will render the project non-functional and result in a score of 0.
+- **Memory Management**: All heap allocated memory must be properly freed. Memory leaks are not tolerated.
+
+All projects compile source files with flags `-Wall`, `-Wextra`, and `-Werror`.
+All projects are free from any memory leaks, segfaults, double frees, or other undefined behavior.
