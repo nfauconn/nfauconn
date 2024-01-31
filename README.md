@@ -31,6 +31,21 @@ tools VSCode Vim motions split keyboard -->
 - **Norm Compliance**: Code must adhere to the Norm of the school.
 - **Error Handling**: Programs should not exit unexpectedly (e.g., segmentation fault, bus error, double free). Such incidents will render the project non-functional and result in a score of 0.
 - **Memory Management**: All heap allocated memory must be properly freed. Memory leaks are not tolerated.
+- **Adherence to Norms and Coding Standards:** write code that is not only operational but also streamlined, readable, and in strict adherence to both the project's guidelines and the school's high coding standards
+  > *no global variables except if exciplicitly authorized*
+  > *variables declared and aligned at the beginning of functions*
+  > *no more than 5 functions per .c file*
+  > *no more than 4 variables per function*
+  > *no more than 4 parameters per function*
+  > *no more than 25 lines per function*
+  > *no more than 80 columns per line*
+  > *no for loops*
+  > *no switch case*
+  > *no goto*
+  > *no ternary operator*
 
 All projects compile source files with flags `-Wall`, `-Wextra`, and `-Werror`.
 All projects are free from any memory leaks, segfaults, double frees, or other undefined behavior.
+
+!!!
+• *Peer-Evaluation and Version Control*
