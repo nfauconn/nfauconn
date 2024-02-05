@@ -1,8 +1,20 @@
 ![C](https://img.shields.io/badge/-c-%23181717?logo=c)
 ![C++](https://img.shields.io/badge/-c%2B%2B-%23181717?logo=c%2B%2B&logoColor=%2300599C)
+![Bash](https://img.shields.io/badge/-Bash-%2323181717?logo=gnubash&logoColor=%234EAA25)
+![git](https://img.shields.io/badge/-Git-%23181717?logo=git)
 ![makefile](https://img.shields.io/badge/-Makefile-%23181717?logo=gnubash)
-![git](https://img.shields.io/badge/-git-%23181717?logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-%23181717?logo=docker&logoColor=%232496ED)
+![HTML5](https://img.shields.io/badge/-HTML-%23181717?logo=html5&logoColor=%23E34F26)
+![CSS3](https://img.shields.io/badge/-CSS-%23181717?logo=css3&logoColor=%231572B6)
+![Typescript](https://img.shields.io/badge/-Typescript-%23181717?logo=typescript&logoColor=%233178C6)
+![NodeJS](https://img.shields.io/badge/-Node.JS-%23181717?logo=nodedotjs&logoColor=%23339933)
+![NestJs](https://img.shields.io/badge/-NestJS-%23181717?logo=nestjs&logoColor=%23E0234E)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23181717?logo=postgresql&logoColor=%234169E1)
+![Prisma](https://img.shields.io/badge/-Prisma-%23181717?logo=prisma&logoColor=%232D3748)
+![Vue](https://img.shields.io/badge/-Vue.js-%23181717?logo=vuedotjs&logoColor=%234FC08D)
+![Vuetify](https://img.shields.io/badge/-Vuetify-%23181717?logo=vuetify&logoColor=%231867C0)
+![Vite](https://img.shields.io/badge/-Vite-%23181717?logo=vite&logoColor=%23646CFF)
+![Pinia](https://img.shields.io/badge/-Pinia-%23181717)
 
 <h2> <img src="https://media0.giphy.com/media/bnzH3tEHjdDuU/giphy.webp?cid=ecf05e47j4g2yreyzwzndtpr0yx2011nsugqohj6e78d3k00&ep=v1_gifs_search&rid=giphy.webp&ct=s" height="30"> 𝙷𝚒, 𝙸'𝚖 𝙽𝚘𝚎 !</h2>
 
@@ -19,7 +31,7 @@ tools VSCode Vim motions split keyboard -->
 
 | 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 | 𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 | 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎
 |:--:|:--:| :--: |
-[𝚝𝚛𝚊𝚗𝚜𝚌𝚎𝚗𝚍𝚎𝚗𝚌𝚎](https://github.com/TheoZerbibi/ft_transcendence) | 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚠𝚎𝚋 𝚒𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎 𝚏𝚘𝚛 𝚊𝚗 𝚘𝚗𝚕𝚒𝚗𝚎 𝚐𝚊𝚖𝚎 | ![Typescript](https://img.shields.io/badge/-Typescript-%231F1F1F?logo=typescript&logoColor=%233178C6)
+[𝚝𝚛𝚊𝚗𝚜𝚌𝚎𝚗𝚍𝚎𝚗𝚌𝚎](https://github.com/TheoZerbibi/ft_transcendence) | 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚠𝚎𝚋 𝚒𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎 𝚏𝚘𝚛 𝚊𝚗 𝚘𝚗𝚕𝚒𝚗𝚎 𝚐𝚊𝚖𝚎 | ![Typescript](https://img.shields.io/badge/-Typescript-%23181717?logo=typescript&logoColor=%233178C6)
 [𝚠𝚎𝚋𝚜𝚎𝚛𝚟](https://github.com/nfauconn/webserv) | 𝙷𝚃𝚃𝙿 𝚜𝚎𝚛𝚟𝚎𝚛 𝚏𝚛𝚘𝚖 𝚜𝚌𝚛𝚊𝚝𝚌𝚑 | ![C++](https://img.shields.io/badge/-c%2B%2B-%23181717?logo=c%2B%2B&logoColor=%2300599C)
 [𝚒𝚗𝚌𝚎𝚙𝚝𝚒𝚘𝚗](https://github.com/nfauconn/inception) | 𝙳𝚘𝚌𝚔𝚎𝚛-𝚋𝚊𝚜𝚎𝚍 𝚠𝚎𝚋 𝚒𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎 𝚏𝚛𝚘𝚖 𝚜𝚌𝚛𝚊𝚝𝚌𝚑 | ![Docker](https://img.shields.io/badge/-Docker-%23181717?logo=docker&logoColor=%232496ED)
 [𝙲𝙿𝙿 𝚖𝚘𝚍𝚞𝚕𝚎𝚜](https://github.com/nfauconn/cpp) | 𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝙲𝙿𝙿 | ![C++](https://img.shields.io/badge/-c%2B%2B-%23181717?logo=c%2B%2B&logoColor=%2300599C) |
@@ -35,6 +47,19 @@ tools VSCode Vim motions split keyboard -->
 [𝚕𝚒𝚋𝚏𝚝](https://github.com/nfauconn/libft) | 𝙲𝚞𝚜𝚝𝚘𝚖 𝚜𝚝𝚊𝚗𝚍𝚊𝚛𝚍 𝙲 𝚕𝚒𝚋𝚛𝚊𝚛𝚢 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) |
 
 
+<h2> <img src="https://media3.giphy.com/media/9xuY0UvnJ05lJfTDhn/200w.webp?cid=ecf05e47h9yfawp7yzaarog55hmte4g86fem88kqqjti3vbu&ep=v1_gifs_related&rid=200w.webp&ct=s" width="30"></img> 𝙼𝚢 𝚃𝚘𝚘𝚕𝚜 </h2>
+
+![Linux](https://img.shields.io/badge/-Linux-%23181717?logo=linux&logoColor=%23FCC624)
+![MacOS](https://img.shields.io/badge/-MacOS-%23181717?logo=apple&logoColor=%23999999)
+![Windows](https://img.shields.io/badge/-Windows-%23181717?logo=windows&logoColor=%230078D6)
+![Bash](https://img.shields.io/badge/-Bash-%2323181717?logo=gnubash&logoColor=%234EAA25)
+![Zsh](https://img.shields.io/badge/-zsh-%2323181717?logo=zsh&logoColor=%23F15A24)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-%2323181717?logo=archlinux&logoColor=%231793D1)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-%2323181717?logo=ubuntu&logoColor=%23E95420)
+![i3](https://img.shields.io/badge/-i3wm-%2323181717?logo=i3&logoColor=%2325A8E0)
+![Vim](https://img.shields.io/badge/-Vim-%2323181717?logo=vim&logoColor=%23019733)
+![Neovim](https://img.shields.io/badge/-Neovim-%23181717?logo=neovim&logoColor=%2357A143)
+![VSCode](https://img.shields.io/badge/-VSCode-%23181717?logo=visualstudiocode&logoColor=%23007ACC)
 
 <!--
 - **Language**: The project must be written in C.
