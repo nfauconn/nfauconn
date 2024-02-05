@@ -84,15 +84,13 @@ All projects are free from any memory leaks, segfaults, double frees, or other u
 
 <h2> <img src="https://media3.giphy.com/media/9xuY0UvnJ05lJfTDhn/200w.webp?cid=ecf05e47h9yfawp7yzaarog55hmte4g86fem88kqqjti3vbu&ep=v1_gifs_related&rid=200w.webp&ct=s" width="30"></img> 𝙼𝚢 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝚃𝚘𝚘𝚕𝚜 </h2>
 
-- 𝙷𝚘𝚖𝚎 𝚂𝚎𝚝𝚞𝚙: 𝙰𝚛𝚌𝚑 𝙻𝚒𝚗𝚞𝚡, 𝚒𝟹 𝚠𝚒𝚗𝚍𝚘𝚠 𝚖𝚊𝚗𝚊𝚐𝚎𝚛
-- 𝙴𝚍𝚒𝚝𝚒𝚗𝚐 𝚃𝚘𝚘𝚕𝚜: 𝚗𝚎𝚘𝚟𝚒𝚖 (𝚏𝚒𝚕𝚎 𝚎𝚍𝚒𝚝𝚒𝚗𝚐), 𝚅𝚂 𝙲𝚘𝚍𝚎 (𝚕𝚊𝚛𝚐𝚎𝚛-𝚜𝚌𝚊𝚕𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜)
 
-𝙰𝚋𝚘𝚟𝚎 𝚊𝚕𝚕, 𝙸 𝚊𝚖 𝚒𝚗𝚑𝚎𝚛𝚎𝚗𝚝𝚕𝚢 𝚌𝚞𝚛𝚒𝚘𝚞𝚜, 𝚊𝚍𝚊𝚙𝚝 𝚚𝚞𝚒𝚌𝚔𝚕𝚢, 𝚊𝚗𝚍 𝚑𝚊𝚟𝚎 𝚊 𝚔𝚎𝚎𝚗 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 𝚒𝚗 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚘𝚘𝚕𝚜 𝚊𝚗𝚍 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 !
+𝙲𝚘𝚗𝚏𝚒𝚐 | 𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 | 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎
+|:--:|:--:|:--:|
+[𝙰𝚛𝚌𝚑 𝙻𝚒𝚗𝚞𝚡](https://github.com/nfauconn/dotfiles/tree/main/archlinux) | 𝙻𝚒𝚐𝚑𝚝𝚠𝚎𝚒𝚐𝚑𝚝 𝚊𝚗𝚍 𝚏𝚕𝚎𝚡𝚒𝚋𝚕𝚎 𝚍𝚒𝚜𝚝𝚛𝚘, 𝚑𝚒𝚐𝚑 𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚋𝚒𝚕𝚒𝚝𝚢 | ![bash](https://img.shields.io/badge/-Bash-%2323181717?logo=gnubash&logoColor=%234EAA25)
+[𝚒𝟹𝚠𝚖](https://github.com/nfauconn/dotfiles/tree/main/archlinux/dotfiles/.i3) | 𝙺𝚎𝚢𝚋𝚘𝚊𝚛𝚍-𝚌𝚎𝚗𝚝𝚛𝚒𝚌 𝚠𝚒𝚗𝚍𝚘𝚠 𝚖𝚊𝚗𝚊𝚐𝚎𝚛 | ![i3](https://img.shields.io/badge/-i3-%2323181717?logo=i3&logoColor=%2325A8E0)
+[𝚅𝚂 𝙲𝚘𝚍𝚎](https://github.com/nfauconn/dotfiles/tree/main/archlinux/dotfiles/.config/Code) | 𝙿𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝚊𝚗𝚍 𝚟𝚎𝚛𝚜𝚊𝚝𝚒𝚕𝚎 𝚌𝚘𝚍𝚎 𝚎𝚍𝚒𝚝𝚘𝚛 𝚝𝚑𝚊𝚝 𝙸 𝚞𝚜𝚎 𝚏𝚘𝚛 𝚕𝚊𝚛𝚐𝚎-𝚜𝚌𝚊𝚕𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 | ![JSON](https://img.shields.io/badge/-JSON-%2323181717?logo=json&logoColor=%23000000)
+[𝙽𝚎𝚘𝚟𝚒𝚖](https://github.com/nfauconn/dotfiles/tree/main/archlinux/dotfiles/.config/nvim) | 𝙴𝚏𝚏𝚒𝚌𝚒𝚎𝚗𝚝 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛 𝚝𝚑𝚊𝚝 𝙸 𝚞𝚜𝚎 𝚏𝚘𝚛 𝚎𝚍𝚒𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚗𝚐 | ![lua](https://img.shields.io/badge/-Lua-%2323181717?logo=lua&logoColor=%232C2D72)
+[𝚅𝚒𝚖](https://github.com/nfauconn/dotfiles/blob/main/archlinux/dotfiles/.vimrc) | 𝙸'𝚟𝚎 𝚜𝚑𝚒𝚏𝚝𝚎𝚍 𝚏𝚛𝚘𝚖 𝚅𝚒𝚖, 𝚋𝚞𝚝 𝚜𝚝𝚒𝚕𝚕 𝚕𝚎𝚟𝚎𝚛𝚊𝚐𝚎 𝚒𝚝𝚜 𝚖𝚘𝚝𝚒𝚘𝚗𝚜 | ![Vim](https://img.shields.io/badge/-Vim-%2323181717?logo=vim&logoColor=%23019733)
 
-Config | Language
-|:--:|:--:|
-[𝙰𝚛𝚌𝚑 𝙻𝚒𝚗𝚞𝚡](https://github.com/nfauconn/dotfiles/tree/main/archlinux) | ![Bash](https://img.shields.io/badge/-Bash-%2323181717?logo=gnubash&logoColor=%234EAA25)
-[𝚒𝟹𝚠𝚖](https://github.com/nfauconn/dotfiles/tree/main/archlinux/dotfiles/.i3) | ![i3](https://img.shields.io/badge/-i3-%2323181717?logo=i3&logoColor=%2325A8E0)
-[𝚅𝚒𝚜𝚞𝚊𝚕 𝚂𝚝𝚞𝚍𝚒𝚘 𝙲𝚘𝚍𝚎](https://github.com/nfauconn/dotfiles/tree/main/archlinux/dotfiles/.config/Code) | ![JSON](https://img.shields.io/badge/-JSON-%2323181717?logo=json&logoColor=%23000000)
-[𝙽𝚎𝚘𝚟𝚒𝚖](https://github.com/nfauconn/dotfiles/tree/main/archlinux/dotfiles/.config/nvim) | ![lua](https://img.shields.io/badge/-Lua-%2323181717?logo=lua&logoColor=%232C2D72)
-[𝚅𝚒𝚖](https://github.com/nfauconn/dotfiles/blob/main/archlinux/dotfiles/.vimrc) | ![Vim](https://img.shields.io/badge/-Vim-%2323181717?logo=vim&logoColor=%23019733)
+<!-- 𝙰𝚋𝚘𝚟𝚎 𝚊𝚕𝚕, 𝙸 𝚊𝚖 𝚒𝚗𝚑𝚎𝚛𝚎𝚗𝚝𝚕𝚢 𝚌𝚞𝚛𝚒𝚘𝚞𝚜, 𝚊𝚍𝚊𝚙𝚝 𝚚𝚞𝚒𝚌𝚔𝚕𝚢, 𝚊𝚗𝚍 𝚑𝚊𝚟𝚎 𝚊 𝚔𝚎𝚎𝚗 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 𝚒𝚗 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚘𝚘𝚕𝚜 𝚊𝚗𝚍 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 ! -->
