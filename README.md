@@ -17,7 +17,7 @@ tools VSCode Vim motions split keyboard -->
 <h2> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlqcGp3a2xoNGJiNHlwc2Jkd3EzY3plZTc2dTZyaDJ0OWFianZjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFy6JPjkjM9GDHykZo/giphy.gif" width="50"></img> 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 </h2>
 
 
-| 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 | 𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 | 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎/𝚃𝚎𝚌𝚑
+| 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 | 𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 | 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎
 |:--:|:--:| :--: |
 [𝚝𝚛𝚊𝚗𝚜𝚌𝚎𝚗𝚍𝚎𝚗𝚌𝚎](https://github.com/TheoZerbibi/ft_transcendence) | 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚠𝚎𝚋 𝚒𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎 𝚏𝚘𝚛 𝚊𝚗 𝚘𝚗𝚕𝚒𝚗𝚎 𝚐𝚊𝚖𝚎 | ![Typescript](https://img.shields.io/badge/-Typescript-%231F1F1F?logo=typescript&logoColor=%233178C6)
 [𝚠𝚎𝚋𝚜𝚎𝚛𝚟](https://github.com/nfauconn/webserv) | 𝙷𝚃𝚃𝙿 𝚜𝚎𝚛𝚟𝚎𝚛 𝚏𝚛𝚘𝚖 𝚜𝚌𝚛𝚊𝚝𝚌𝚑 | ![C++](https://img.shields.io/badge/-c%2B%2B-%23181717?logo=c%2B%2B&logoColor=%2300599C)
