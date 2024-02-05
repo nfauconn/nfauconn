@@ -4,6 +4,7 @@
 ![git](https://img.shields.io/badge/-Git-%23181717?logo=git)
 ![makefile](https://img.shields.io/badge/-Makefile-%23181717?logo=gnubash)
 ![Docker](https://img.shields.io/badge/-Docker-%23181717?logo=docker&logoColor=%232496ED)
+![Nginx](https://img.shields.io/badge/-Nginx-%2323181717?logo=nginx&logoColor=%23009639)
 ![HTML5](https://img.shields.io/badge/-HTML-%23181717?logo=html5&logoColor=%23E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS-%23181717?logo=css3&logoColor=%231572B6)
 ![Typescript](https://img.shields.io/badge/-Typescript-%23181717?logo=typescript&logoColor=%233178C6)
@@ -13,8 +14,17 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-%23181717?logo=prisma&logoColor=%232D3748)
 ![Vue](https://img.shields.io/badge/-Vue.js-%23181717?logo=vuedotjs&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-%23181717?logo=vuetify&logoColor=%231867C0)
-![Vite](https://img.shields.io/badge/-Vite-%23181717?logo=vite&logoColor=%23646CFF)
-![Pinia](https://img.shields.io/badge/-Pinia-%23181717)
+![Linux](https://img.shields.io/badge/-Linux-%23181717?logo=linux&logoColor=%23FCC624)
+![MacOS](https://img.shields.io/badge/-MacOS-%23181717?logo=apple&logoColor=%23999999)
+![Windows](https://img.shields.io/badge/-Windows-%23181717?logo=windows&logoColor=%230078D6)
+![Bash](https://img.shields.io/badge/-Bash-%2323181717?logo=gnubash&logoColor=%234EAA25)
+![Zsh](https://img.shields.io/badge/-zsh-%2323181717?logo=zsh&logoColor=%23F15A24)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-%2323181717?logo=archlinux&logoColor=%231793D1)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-%2323181717?logo=ubuntu&logoColor=%23E95420)
+![i3](https://img.shields.io/badge/-i3wm-%2323181717?logo=i3&logoColor=%2325A8E0)
+![Vim](https://img.shields.io/badge/-Vim-%2323181717?logo=vim&logoColor=%23019733)
+![Neovim](https://img.shields.io/badge/-Neovim-%23181717?logo=neovim&logoColor=%2357A143)
+![VSCode](https://img.shields.io/badge/-VSCode-%23181717?logo=visualstudiocode&logoColor=%23007ACC)
 
 <h2> <img src="https://media0.giphy.com/media/bnzH3tEHjdDuU/giphy.webp?cid=ecf05e47j4g2yreyzwzndtpr0yx2011nsugqohj6e78d3k00&ep=v1_gifs_search&rid=giphy.webp&ct=s" height="30"> 𝙷𝚒, 𝙸'𝚖 𝙽𝚘𝚎 !</h2>
 
@@ -47,20 +57,6 @@ tools VSCode Vim motions split keyboard -->
 [𝚕𝚒𝚋𝚏𝚝](https://github.com/nfauconn/libft) | 𝙲𝚞𝚜𝚝𝚘𝚖 𝚜𝚝𝚊𝚗𝚍𝚊𝚛𝚍 𝙲 𝚕𝚒𝚋𝚛𝚊𝚛𝚢 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) |
 
 
-<h2> <img src="https://media3.giphy.com/media/9xuY0UvnJ05lJfTDhn/200w.webp?cid=ecf05e47h9yfawp7yzaarog55hmte4g86fem88kqqjti3vbu&ep=v1_gifs_related&rid=200w.webp&ct=s" width="30"></img> 𝙼𝚢 𝚃𝚘𝚘𝚕𝚜 </h2>
-
-![Linux](https://img.shields.io/badge/-Linux-%23181717?logo=linux&logoColor=%23FCC624)
-![MacOS](https://img.shields.io/badge/-MacOS-%23181717?logo=apple&logoColor=%23999999)
-![Windows](https://img.shields.io/badge/-Windows-%23181717?logo=windows&logoColor=%230078D6)
-![Bash](https://img.shields.io/badge/-Bash-%2323181717?logo=gnubash&logoColor=%234EAA25)
-![Zsh](https://img.shields.io/badge/-zsh-%2323181717?logo=zsh&logoColor=%23F15A24)
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-%2323181717?logo=archlinux&logoColor=%231793D1)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-%2323181717?logo=ubuntu&logoColor=%23E95420)
-![i3](https://img.shields.io/badge/-i3wm-%2323181717?logo=i3&logoColor=%2325A8E0)
-![Vim](https://img.shields.io/badge/-Vim-%2323181717?logo=vim&logoColor=%23019733)
-![Neovim](https://img.shields.io/badge/-Neovim-%23181717?logo=neovim&logoColor=%2357A143)
-![VSCode](https://img.shields.io/badge/-VSCode-%23181717?logo=visualstudiocode&logoColor=%23007ACC)
-
 <!--
 - **Language**: The project must be written in C.
 - **Norm Compliance**: Code must adhere to the Norm of the school.
@@ -84,3 +80,20 @@ All projects are free from any memory leaks, segfaults, double frees, or other u
 
 !!!
 • *Peer-Evaluation and Version Control*
+-->
+
+<h2> <img src="https://media3.giphy.com/media/9xuY0UvnJ05lJfTDhn/200w.webp?cid=ecf05e47h9yfawp7yzaarog55hmte4g86fem88kqqjti3vbu&ep=v1_gifs_related&rid=200w.webp&ct=s" width="30"></img> 𝙼𝚢 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝚃𝚘𝚘𝚕𝚜 </h2>
+
+- 𝚂𝚌𝚑𝚘𝚘𝚕 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝: 𝙻𝚒𝚗𝚞𝚡 (𝚄𝚋𝚞𝚗𝚝𝚞)
+- 𝙷𝚘𝚖𝚎 𝚂𝚎𝚝𝚞𝚙: 𝙰𝚛𝚌𝚑 𝙻𝚒𝚗𝚞𝚡, 𝚒𝟹 𝚠𝚒𝚗𝚍𝚘𝚠 𝚖𝚊𝚗𝚊𝚐𝚎𝚛
+- 𝙴𝚍𝚒𝚝𝚒𝚗𝚐 𝚃𝚘𝚘𝚕𝚜: 𝚗𝚎𝚘𝚟𝚒𝚖 (𝚏𝚒𝚕𝚎 𝚎𝚍𝚒𝚝𝚒𝚗𝚐), 𝚅𝚂 𝙲𝚘𝚍𝚎 (𝚕𝚊𝚛𝚐𝚎𝚛-𝚜𝚌𝚊𝚕𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜)
+
+𝙰𝚋𝚘𝚟𝚎 𝚊𝚕𝚕, 𝙸 𝚊𝚖 𝚒𝚗𝚑𝚎𝚛𝚎𝚗𝚝𝚕𝚢 𝚌𝚞𝚛𝚒𝚘𝚞𝚜, 𝚊𝚍𝚊𝚙𝚝 𝚚𝚞𝚒𝚌𝚔𝚕𝚢, 𝚊𝚗𝚍 𝚑𝚊𝚟𝚎 𝚊 𝚔𝚎𝚎𝚗 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 𝚒𝚗 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚘𝚘𝚕𝚜 𝚊𝚗𝚍 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 !
+
+Config | Language
+|:--:|:--:|
+[𝙰𝚛𝚌𝚑 𝙻𝚒𝚗𝚞𝚡](https://github.com/nfauconn/dotfiles/tree/main/archlinux) | ![Bash](https://img.shields.io/badge/-Bash-%2323181717?logo=gnubash&logoColor=%234EAA25)
+[𝚒𝟹𝚠𝚖](https://github.com/nfauconn/dotfiles/tree/main/archlinux/dotfiles/.i3) | ![i3](https://img.shields.io/badge/-i3-%2323181717?logo=i3&logoColor=%2325A8E0)
+[𝚅𝚒𝚜𝚞𝚊𝚕 𝚂𝚝𝚞𝚍𝚒𝚘 𝙲𝚘𝚍𝚎](https://github.com/nfauconn/dotfiles/tree/main/archlinux/dotfiles/.config/Code) | ![JSON](https://img.shields.io/badge/-JSON-%2323181717?logo=json&logoColor=%23000000)
+[𝙽𝚎𝚘𝚟𝚒𝚖](https://github.com/nfauconn/dotfiles/tree/main/archlinux/dotfiles/.config/nvim) | ![lua](https://img.shields.io/badge/-Lua-%2323181717?logo=lua&logoColor=%232C2D72)
+[𝚅𝚒𝚖](https://github.com/nfauconn/dotfiles/blob/main/archlinux/dotfiles/.vimrc) | ![Vim](https://img.shields.io/badge/-Vim-%2323181717?logo=vim&logoColor=%23019733)
