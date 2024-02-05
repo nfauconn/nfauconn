@@ -1,3 +1,4 @@
+<!--
 ![C](https://img.shields.io/badge/-c-%23181717?logo=c)
 ![C++](https://img.shields.io/badge/-c%2B%2B-%23181717?logo=c%2B%2B&logoColor=%2300599C)
 ![Bash](https://img.shields.io/badge/-Bash-%2323181717?logo=gnubash&logoColor=%234EAA25)
@@ -25,6 +26,7 @@
 ![Vim](https://img.shields.io/badge/-Vim-%2323181717?logo=vim&logoColor=%23019733)
 ![Neovim](https://img.shields.io/badge/-Neovim-%23181717?logo=neovim&logoColor=%2357A143)
 ![VSCode](https://img.shields.io/badge/-VSCode-%23181717?logo=visualstudiocode&logoColor=%23007ACC)
+-->
 
 <h2> <img src="https://media0.giphy.com/media/bnzH3tEHjdDuU/giphy.webp?cid=ecf05e47j4g2yreyzwzndtpr0yx2011nsugqohj6e78d3k00&ep=v1_gifs_search&rid=giphy.webp&ct=s" height="30"> 𝙷𝚒, 𝙸'𝚖 𝙽𝚘𝚎 !</h2>
 
