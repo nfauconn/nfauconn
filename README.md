@@ -84,7 +84,6 @@ All projects are free from any memory leaks, segfaults, double frees, or other u
 
 <h2> <img src="https://media3.giphy.com/media/9xuY0UvnJ05lJfTDhn/200w.webp?cid=ecf05e47h9yfawp7yzaarog55hmte4g86fem88kqqjti3vbu&ep=v1_gifs_related&rid=200w.webp&ct=s" width="30"></img> 𝙼𝚢 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝚃𝚘𝚘𝚕𝚜 </h2>
 
-- 𝚂𝚌𝚑𝚘𝚘𝚕 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝: 𝙻𝚒𝚗𝚞𝚡 (𝚄𝚋𝚞𝚗𝚝𝚞)
 - 𝙷𝚘𝚖𝚎 𝚂𝚎𝚝𝚞𝚙: 𝙰𝚛𝚌𝚑 𝙻𝚒𝚗𝚞𝚡, 𝚒𝟹 𝚠𝚒𝚗𝚍𝚘𝚠 𝚖𝚊𝚗𝚊𝚐𝚎𝚛
 - 𝙴𝚍𝚒𝚝𝚒𝚗𝚐 𝚃𝚘𝚘𝚕𝚜: 𝚗𝚎𝚘𝚟𝚒𝚖 (𝚏𝚒𝚕𝚎 𝚎𝚍𝚒𝚝𝚒𝚗𝚐), 𝚅𝚂 𝙲𝚘𝚍𝚎 (𝚕𝚊𝚛𝚐𝚎𝚛-𝚜𝚌𝚊𝚕𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜)
 
