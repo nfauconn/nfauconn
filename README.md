@@ -92,5 +92,6 @@ All projects are free from any memory leaks, segfaults, double frees, or other u
 [𝚅𝚂 𝙲𝚘𝚍𝚎](https://github.com/nfauconn/dotfiles/tree/main/archlinux/dotfiles/.config/Code) | 𝙿𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝚊𝚗𝚍 𝚟𝚎𝚛𝚜𝚊𝚝𝚒𝚕𝚎 𝚌𝚘𝚍𝚎 𝚎𝚍𝚒𝚝𝚘𝚛 𝚝𝚑𝚊𝚝 𝙸 𝚞𝚜𝚎 𝚏𝚘𝚛 𝚕𝚊𝚛𝚐𝚎-𝚜𝚌𝚊𝚕𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 | ![JSON](https://img.shields.io/badge/-JSON-%2323181717?logo=json&logoColor=%23000000)
 [𝙽𝚎𝚘𝚟𝚒𝚖](https://github.com/nfauconn/dotfiles/tree/main/archlinux/dotfiles/.config/nvim) | 𝙴𝚏𝚏𝚒𝚌𝚒𝚎𝚗𝚝 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛 𝚝𝚑𝚊𝚝 𝙸 𝚞𝚜𝚎 𝚏𝚘𝚛 𝚎𝚍𝚒𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚗𝚐 | ![lua](https://img.shields.io/badge/-Lua-%2323181717?logo=lua&logoColor=%232C2D72)
 [𝚅𝚒𝚖](https://github.com/nfauconn/dotfiles/blob/main/archlinux/dotfiles/.vimrc) | 𝙸'𝚟𝚎 𝚜𝚑𝚒𝚏𝚝𝚎𝚍 𝚏𝚛𝚘𝚖 𝚅𝚒𝚖, 𝚋𝚞𝚝 𝚜𝚝𝚒𝚕𝚕 𝚕𝚎𝚟𝚎𝚛𝚊𝚐𝚎 𝚒𝚝𝚜 𝚖𝚘𝚝𝚒𝚘𝚗𝚜 | ![Vim](https://img.shields.io/badge/-Vim-%2323181717?logo=vim&logoColor=%23019733)
+[𝙻𝚒𝚕𝚢𝟻𝟾](https://github.com/nfauconn/dotfiles/tree/main/lily58) | 𝙲𝚘𝚖𝚙𝚊𝚌𝚝 𝚊𝚗𝚍 𝚎𝚛𝚐𝚘𝚗𝚘𝚖𝚒𝚌 𝙳𝙸𝚈 𝚜𝚙𝚕𝚒𝚝 𝚔𝚎𝚢𝚋𝚘𝚊𝚛𝚍, 𝚠𝚒𝚝𝚑 𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚋𝚕𝚎 𝚕𝚊𝚢𝚘𝚞𝚝 | ![JSON](https://img.shields.io/badge/-JSON-%2323181717?logo=json&logoColor=%23000000)
 
 <!-- 𝙰𝚋𝚘𝚟𝚎 𝚊𝚕𝚕, 𝙸 𝚊𝚖 𝚒𝚗𝚑𝚎𝚛𝚎𝚗𝚝𝚕𝚢 𝚌𝚞𝚛𝚒𝚘𝚞𝚜, 𝚊𝚍𝚊𝚙𝚝 𝚚𝚞𝚒𝚌𝚔𝚕𝚢, 𝚊𝚗𝚍 𝚑𝚊𝚟𝚎 𝚊 𝚔𝚎𝚎𝚗 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 𝚒𝚗 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚘𝚘𝚕𝚜 𝚊𝚗𝚍 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 ! -->
