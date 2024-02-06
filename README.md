@@ -1,42 +1,9 @@
-<!--
-![C](https://img.shields.io/badge/-c-%23181717?logo=c)
-![C++](https://img.shields.io/badge/-c%2B%2B-%23181717?logo=c%2B%2B&logoColor=%2300599C)
-![Bash](https://img.shields.io/badge/-Bash-%2323181717?logo=gnubash&logoColor=%234EAA25)
-![git](https://img.shields.io/badge/-Git-%23181717?logo=git)
-![makefile](https://img.shields.io/badge/-Makefile-%23181717?logo=gnubash)
-![Docker](https://img.shields.io/badge/-Docker-%23181717?logo=docker&logoColor=%232496ED)
-![Nginx](https://img.shields.io/badge/-Nginx-%2323181717?logo=nginx&logoColor=%23009639)
-![HTML5](https://img.shields.io/badge/-HTML-%23181717?logo=html5&logoColor=%23E34F26)
-![CSS3](https://img.shields.io/badge/-CSS-%23181717?logo=css3&logoColor=%231572B6)
-![Typescript](https://img.shields.io/badge/-Typescript-%23181717?logo=typescript&logoColor=%233178C6)
-![NodeJS](https://img.shields.io/badge/-Node.JS-%23181717?logo=nodedotjs&logoColor=%23339933)
-![NestJs](https://img.shields.io/badge/-NestJS-%23181717?logo=nestjs&logoColor=%23E0234E)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23181717?logo=postgresql&logoColor=%234169E1)
-![Prisma](https://img.shields.io/badge/-Prisma-%23181717?logo=prisma&logoColor=%232D3748)
-![Vue](https://img.shields.io/badge/-Vue.js-%23181717?logo=vuedotjs&logoColor=%234FC08D)
-![Vuetify](https://img.shields.io/badge/-Vuetify-%23181717?logo=vuetify&logoColor=%231867C0)
-![Linux](https://img.shields.io/badge/-Linux-%23181717?logo=linux&logoColor=%23FCC624)
-![MacOS](https://img.shields.io/badge/-MacOS-%23181717?logo=apple&logoColor=%23999999)
-![Windows](https://img.shields.io/badge/-Windows-%23181717?logo=windows&logoColor=%230078D6)
-![Bash](https://img.shields.io/badge/-Bash-%2323181717?logo=gnubash&logoColor=%234EAA25)
-![Zsh](https://img.shields.io/badge/-zsh-%2323181717?logo=zsh&logoColor=%23F15A24)
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-%2323181717?logo=archlinux&logoColor=%231793D1)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-%2323181717?logo=ubuntu&logoColor=%23E95420)
-![i3](https://img.shields.io/badge/-i3wm-%2323181717?logo=i3&logoColor=%2325A8E0)
-![Vim](https://img.shields.io/badge/-Vim-%2323181717?logo=vim&logoColor=%23019733)
-![Neovim](https://img.shields.io/badge/-Neovim-%23181717?logo=neovim&logoColor=%2357A143)
-![VSCode](https://img.shields.io/badge/-VSCode-%23181717?logo=visualstudiocode&logoColor=%23007ACC)
--->
-
 <h2> <img src="https://media0.giphy.com/media/bnzH3tEHjdDuU/giphy.webp?cid=ecf05e47j4g2yreyzwzndtpr0yx2011nsugqohj6e78d3k00&ep=v1_gifs_search&rid=giphy.webp&ct=s" height="30"> 𝙷𝚒, 𝙸'𝚖 𝙽𝚘𝚎 !</h2>
 
 - 🎓 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚝 [𝙴𝚌𝚘𝚕𝚎 𝟺𝟸 𝙿𝚊𝚛𝚒𝚜](https://42.fr/en/homepage/)
 - 🏁 𝙵𝚒𝚗𝚒𝚜𝚑𝚎𝚍 𝚝𝚑𝚎 𝚌𝚘𝚖𝚖𝚘𝚗 𝚌𝚘𝚛𝚎
 - 📟 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝𝚒𝚌 𝙻𝚒𝚗𝚞𝚡 𝚞𝚜𝚎𝚛
 - 🎮 𝙼𝚞𝚜𝚒𝚌 • 𝙶𝚊𝚖𝚎𝚜 • 𝙲𝚘𝚍𝚎 • 𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝 𝙰𝚛𝚝 • 𝙰𝚗𝚒𝚖𝚎 • 𝙼𝚘𝚟𝚒𝚎𝚜
-
-<!-- PUT CONFIG  (and linux config in hobbies ?)
-tools VSCode Vim motions split keyboard -->
 
 <h2> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlqcGp3a2xoNGJiNHlwc2Jkd3EzY3plZTc2dTZyaDJ0OWFianZjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFy6JPjkjM9GDHykZo/giphy.gif" width="50"></img> 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 </h2>
 
@@ -58,42 +25,14 @@ tools VSCode Vim motions split keyboard -->
 [𝚐𝚎𝚝_𝚗𝚎𝚡𝚝_𝚕𝚒𝚗𝚎](https://github.com/nfauconn/get_next_line) | 𝙲𝚞𝚜𝚝𝚘𝚖 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚐𝚎𝚝𝚕𝚒𝚗𝚎 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) |
 [𝚕𝚒𝚋𝚏𝚝](https://github.com/nfauconn/libft) | 𝙲𝚞𝚜𝚝𝚘𝚖 𝚜𝚝𝚊𝚗𝚍𝚊𝚛𝚍 𝙲 𝚕𝚒𝚋𝚛𝚊𝚛𝚢 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) |
 
-
-<!--
-- **Language**: The project must be written in C.
-- **Norm Compliance**: Code must adhere to the Norm of the school.
-- **Error Handling**: Programs should not exit unexpectedly (e.g., segmentation fault, bus error, double free). Such incidents will render the project non-functional and result in a score of 0.
-- **Memory Management**: All heap allocated memory must be properly freed. Memory leaks are not tolerated.
-- **Adherence to Norms and Coding Standards:** write code that is not only operational but also streamlined, readable, and in strict adherence to both the project's guidelines and the school's high coding standards
-  > *no global variables except if exciplicitly authorized*
-  > *variables declared and aligned at the beginning of functions*
-  > *no more than 5 functions per .c file*
-  > *no more than 4 variables per function*
-  > *no more than 4 parameters per function*
-  > *no more than 25 lines per function*
-  > *no more than 80 columns per line*
-  > *no for loops*
-  > *no switch case*
-  > *no goto*
-  > *no ternary operator*
-
-All projects compile source files with flags `-Wall`, `-Wextra`, and `-Werror`.
-All projects are free from any memory leaks, segfaults, double frees, or other undefined behavior.
-
-!!!
-• *Peer-Evaluation and Version Control*
--->
-
 <h2> <img src="https://media3.giphy.com/media/9xuY0UvnJ05lJfTDhn/200w.webp?cid=ecf05e47h9yfawp7yzaarog55hmte4g86fem88kqqjti3vbu&ep=v1_gifs_related&rid=200w.webp&ct=s" width="30"></img> 𝙼𝚢 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝚃𝚘𝚘𝚕𝚜 </h2>
 
 
 𝙲𝚘𝚗𝚏𝚒𝚐 | 𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 | 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎
 |:--:|:--:|:--:|
 [𝙰𝚛𝚌𝚑 𝙻𝚒𝚗𝚞𝚡](https://github.com/nfauconn/dotfiles/tree/main/archlinux) | 𝙻𝚒𝚐𝚑𝚝𝚠𝚎𝚒𝚐𝚑𝚝 𝚊𝚗𝚍 𝚏𝚕𝚎𝚡𝚒𝚋𝚕𝚎 𝚍𝚒𝚜𝚝𝚛𝚘, 𝚑𝚒𝚐𝚑 𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚋𝚒𝚕𝚒𝚝𝚢 | ![bash](https://img.shields.io/badge/-Bash-%2323181717?logo=gnubash&logoColor=%234EAA25)
-[𝚒𝟹𝚠𝚖](https://github.com/nfauconn/dotfiles/tree/main/archlinux/dotfiles/.i3) | 𝙺𝚎𝚢𝚋𝚘𝚊𝚛𝚍-𝚌𝚎𝚗𝚝𝚛𝚒𝚌 𝚠𝚒𝚗𝚍𝚘𝚠 𝚖𝚊𝚗𝚊𝚐𝚎𝚛 | ![i3](https://img.shields.io/badge/-i3-%2323181717?logo=i3&logoColor=%2325A8E0)
+[𝚒𝟹𝚠𝚖](https://github.com/nfauconn/dotfiles/tree/main/archlinux/dotfiles/.i3/config) | 𝙺𝚎𝚢𝚋𝚘𝚊𝚛𝚍-𝚌𝚎𝚗𝚝𝚛𝚒𝚌 𝚠𝚒𝚗𝚍𝚘𝚠 𝚖𝚊𝚗𝚊𝚐𝚎𝚛 | ![i3](https://img.shields.io/badge/-i3-%2323181717?logo=i3&logoColor=%2325A8E0)
 [𝚅𝚂 𝙲𝚘𝚍𝚎](https://github.com/nfauconn/dotfiles/tree/main/archlinux/dotfiles/.config/Code) | 𝙿𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝚊𝚗𝚍 𝚟𝚎𝚛𝚜𝚊𝚝𝚒𝚕𝚎 𝚌𝚘𝚍𝚎 𝚎𝚍𝚒𝚝𝚘𝚛 𝚝𝚑𝚊𝚝 𝙸 𝚞𝚜𝚎 𝚏𝚘𝚛 𝚕𝚊𝚛𝚐𝚎-𝚜𝚌𝚊𝚕𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 | ![JSON](https://img.shields.io/badge/-JSON-%2323181717?logo=json&logoColor=%23000000)
 [𝙽𝚎𝚘𝚟𝚒𝚖](https://github.com/nfauconn/dotfiles/tree/main/archlinux/dotfiles/.config/nvim) | 𝙴𝚏𝚏𝚒𝚌𝚒𝚎𝚗𝚝 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛 𝚝𝚑𝚊𝚝 𝙸 𝚞𝚜𝚎 𝚏𝚘𝚛 𝚎𝚍𝚒𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚗𝚐 | ![lua](https://img.shields.io/badge/-Lua-%2323181717?logo=lua&logoColor=%232C2D72)
 [𝚅𝚒𝚖](https://github.com/nfauconn/dotfiles/blob/main/archlinux/dotfiles/.vimrc) | 𝙸'𝚟𝚎 𝚜𝚑𝚒𝚏𝚝𝚎𝚍 𝚏𝚛𝚘𝚖 𝚅𝚒𝚖, 𝚋𝚞𝚝 𝚜𝚝𝚒𝚕𝚕 𝚕𝚎𝚟𝚎𝚛𝚊𝚐𝚎 𝚒𝚝𝚜 𝚖𝚘𝚝𝚒𝚘𝚗𝚜 | ![Vim](https://img.shields.io/badge/-Vim-%2323181717?logo=vim&logoColor=%23019733)
-[𝙻𝚒𝚕𝚢𝟻𝟾](https://github.com/nfauconn/dotfiles/tree/main/lily58) | 𝙲𝚘𝚖𝚙𝚊𝚌𝚝 𝚊𝚗𝚍 𝚎𝚛𝚐𝚘𝚗𝚘𝚖𝚒𝚌 𝙳𝙸𝚈 𝚜𝚙𝚕𝚒𝚝 𝚔𝚎𝚢𝚋𝚘𝚊𝚛𝚍, 𝚠𝚒𝚝𝚑 𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚋𝚕𝚎 𝚕𝚊𝚢𝚘𝚞𝚝 | ![JSON](https://img.shields.io/badge/-JSON-%2323181717?logo=json&logoColor=%23000000)
-
-<!-- 𝙰𝚋𝚘𝚟𝚎 𝚊𝚕𝚕, 𝙸 𝚊𝚖 𝚒𝚗𝚑𝚎𝚛𝚎𝚗𝚝𝚕𝚢 𝚌𝚞𝚛𝚒𝚘𝚞𝚜, 𝚊𝚍𝚊𝚙𝚝 𝚚𝚞𝚒𝚌𝚔𝚕𝚢, 𝚊𝚗𝚍 𝚑𝚊𝚟𝚎 𝚊 𝚔𝚎𝚎𝚗 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 𝚒𝚗 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚘𝚘𝚕𝚜 𝚊𝚗𝚍 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 ! -->
+[𝙻𝚒𝚕𝚢𝟻𝟾](https://github.com/nfauconn/dotfiles/blob/main/lily58/lily58_r2g.layout.json) | 𝙲𝚘𝚖𝚙𝚊𝚌𝚝 𝚊𝚗𝚍 𝚎𝚛𝚐𝚘𝚗𝚘𝚖𝚒𝚌 𝙳𝙸𝚈 𝚜𝚙𝚕𝚒𝚝 𝚔𝚎𝚢𝚋𝚘𝚊𝚛𝚍, 𝚠𝚒𝚝𝚑 𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚋𝚕𝚎 𝚕𝚊𝚢𝚘𝚞𝚝 | ![JSON](https://img.shields.io/badge/-JSON-%2323181717?logo=json&logoColor=%23000000)
