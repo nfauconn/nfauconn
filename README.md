@@ -1,4 +1,4 @@
-[![fr](https://img.shields.io/badge/lang-fr-pink.svg)](https://github.com/nfauconn/nfauconn/blob/main/README.fr.md)
+[𝙵𝚁](https://gith𝙵𝚁ub.com/nfauconn/nfauconn/blob/main/README.fr.md)
 
 <h2> <img src="https://media0.giphy.com/media/bnzH3tEHjdDuU/giphy.webp?cid=ecf05e47j4g2yreyzwzndtpr0yx2011nsugqohj6e78d3k00&ep=v1_gifs_search&rid=giphy.webp&ct=s" height="30"> 𝙷𝚒, 𝙸'𝚖 𝙽𝚘𝚎 !</h2>
 
@@ -27,7 +27,7 @@
 [𝚐𝚎𝚝_𝚗𝚎𝚡𝚝_𝚕𝚒𝚗𝚎](https://github.com/nfauconn/get_next_line) | 𝙲𝚞𝚜𝚝𝚘𝚖 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚐𝚎𝚝𝚕𝚒𝚗𝚎 | ![C](https://img.shields.io/badge/-c-%2323181717?logo=c) |
 [𝚕𝚒𝚋𝚏𝚝](https://github.com/nfauconn/libft) | 𝙲𝚞𝚜𝚝𝚘𝚖 𝚜𝚝𝚊𝚗𝚍𝚊𝚛𝚍 𝙲 𝚕𝚒𝚋𝚛𝚊𝚛𝚢 | ![C](https://img.shields.io/badge/-c-%2323181717?logo=c) |
 
-<h2> <img src="https://media3.giphy.com/media/9xuY0UvnJ05lJfTDhn/200w.webp?cid=ecf05e47h9yfawp7yzaarog55hmte4g86fem88kqqjti3vbu&ep=v1_gifs_related&rid=200w.webp&ct=s" width="30"></img> 𝙼𝚢 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝚃𝚘𝚘𝚕𝚜 </h2>
+<h2> <img src="https://media3.giphy.com/media/9xuY0UvnJ05lJfTDhn/200w.webp?cid=ecf05e47h9yfawp7yzaarog55hmte4g86fem88kqqjti3vbu&ep=v1_gifs_related&rid=200w.webp&ct=s" width="20"></img> 𝙼𝚢 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝚃𝚘𝚘𝚕𝚜 </h2>
 
 
 𝙲𝚘𝚗𝚏𝚒𝚐 | 𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 | 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎
@@ -39,12 +39,11 @@
 [𝚅𝚒𝚖](https://github.com/nfauconn/dotfiles/blob/main/archlinux/dotfiles/.vimrc) | 𝙸'𝚟𝚎 𝚜𝚑𝚒𝚏𝚝𝚎𝚍 𝚏𝚛𝚘𝚖 𝚅𝚒𝚖, 𝚋𝚞𝚝 𝚜𝚝𝚒𝚕𝚕 𝚕𝚎𝚟𝚎𝚛𝚊𝚐𝚎 𝚒𝚝𝚜 𝚖𝚘𝚝𝚒𝚘𝚗𝚜 | ![Vim](https://img.shields.io/badge/-Vim-%2323181717?logo=vim&logoColor=%23019733)
 [𝙻𝚒𝚕𝚢𝟻𝟾](https://github.com/nfauconn/dotfiles/blob/main/lily58/lily58_r2g.layout.json) | 𝙲𝚘𝚖𝚙𝚊𝚌𝚝 𝚊𝚗𝚍 𝚎𝚛𝚐𝚘𝚗𝚘𝚖𝚒𝚌 𝙳𝙸𝚈 𝚜𝚙𝚕𝚒𝚝 𝚔𝚎𝚢𝚋𝚘𝚊𝚛𝚍, 𝚠𝚒𝚝𝚑 𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚋𝚕𝚎 𝚕𝚊𝚢𝚘𝚞𝚝 | ![JSON](https://img.shields.io/badge/-JSON-%2323181717?logo=json&logoColor=%23000000)
 
-<h2> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ0ZzQ3aDhpa3U2emVjZTJncmpjMnkzb2JwZ3V6ajB4cGtvZHFjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hUvsE0Kh3mo36/giphy.gif" width="50"></img>  𝙰𝚋𝚘𝚞𝚝 𝙼𝚢 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜 </h2>
+<h2> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ0ZzQ3aDhpa3U2emVjZTJncmpjMnkzb2JwZ3V6ajB4cGtvZHFjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hUvsE0Kh3mo36/giphy.gif" width="30"></img>  𝙰𝚋𝚘𝚞𝚝 𝙼𝚢 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜 </h2>
 
-𝚈𝚘𝚞 𝚖𝚒𝚐𝚑𝚝 𝚗𝚘𝚝𝚒𝚌𝚎 𝚝𝚑𝚊𝚝 𝚝𝚑𝚎 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝚐𝚛𝚊𝚙𝚑 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚍𝚘𝚎𝚜 𝚗𝚘𝚝 𝚛𝚎𝚏𝚕𝚎𝚌𝚝 𝚊𝚕𝚕 𝚘𝚏 𝚖𝚢 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢. 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚍𝚞𝚎 𝚝𝚘 𝚒𝚗𝚌𝚘𝚛𝚛𝚎𝚌𝚝 𝚎𝚖𝚊𝚒𝚕 𝚌𝚘𝚗𝚏𝚒𝚐𝚞𝚛𝚊𝚝𝚒𝚘𝚗 𝚒𝚗 𝚖𝚢 𝚕𝚘𝚌𝚊𝚕 𝚌𝚘𝚖𝚖𝚒𝚝𝚜 𝚘𝚟𝚎𝚛 𝚝𝚑𝚎 𝚙𝚊𝚜𝚝 𝚢𝚎𝚊𝚛𝚜.
+𝚈𝚘𝚞 𝚖𝚒𝚐𝚑𝚝 𝚗𝚘𝚝𝚒𝚌𝚎 𝚝𝚑𝚊𝚝 𝚝𝚑𝚎 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝚐𝚛𝚊𝚙𝚑 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚍𝚘𝚎𝚜 𝚗𝚘𝚝 𝚛𝚎𝚏𝚕𝚎𝚌𝚝 𝚊𝚕𝚕 𝚘𝚏 𝚖𝚢 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢. 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚍𝚞𝚎 𝚝𝚘 𝚊𝚗 𝚒𝚗𝚌𝚘𝚛𝚛𝚎𝚌𝚝 𝚎𝚖𝚊𝚒𝚕 𝚌𝚘𝚗𝚏𝚒𝚐𝚞𝚛𝚊𝚝𝚒𝚘𝚗 𝚒𝚗 𝚖𝚢 𝚕𝚘𝚌𝚊𝚕 𝚌𝚘𝚖𝚖𝚒𝚝𝚜 𝚘𝚟𝚎𝚛 𝚝𝚑𝚎 𝚙𝚊𝚜𝚝 𝚢𝚎𝚊𝚛𝚜.
 
-𝙵𝚘𝚛 𝚊 𝚕𝚘𝚗𝚐 𝚝𝚒𝚖𝚎, 𝙸 𝚞𝚜𝚎𝚍 𝚒𝚗𝚌𝚘𝚛𝚛𝚎𝚌𝚝 𝚎𝚖𝚊𝚒𝚕 𝚊𝚍𝚍𝚛𝚎𝚜𝚜𝚎𝚜 𝚠𝚑𝚎𝚗 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝚑𝚘𝚖𝚎 𝚏𝚘𝚛 𝚖𝚢 𝚐𝚛𝚘𝚞𝚙 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜
- [𝚝𝚛𝚊𝚗𝚜𝚌𝚎𝚗𝚍𝚎𝚗𝚌𝚎](https://github.com/TheoZerbibi/ft_transcendence/commits/features/chat-api-front), [𝚠𝚎𝚋𝚜𝚎𝚛𝚟](https://github.com/nfauconn/webserv/commits/main/?after=5c8b935ed8f46b519540b5be971d9d9a484c6101+104), [𝚖𝚒𝚗𝚒𝚁𝚃](https://github.com/nfauconn/miniRT/commits/main/?before=5a107be071f3a7fd26b41d2ce0d43c9e08f411c3+70) 𝚊𝚗𝚍 [𝚖𝚒𝚗𝚒𝚜𝚑𝚎𝚕𝚕](https://github.com/nfauconn/minishell/commits/master/?after=2878a6dfd5d6b050c4a2cbc2a3e19686d9d835f9+174) (𝚕𝚒𝚗𝚔𝚜 𝚙𝚘𝚒𝚗𝚝 𝚝𝚘 𝚜𝚘𝚖𝚎 𝚌𝚘𝚖𝚖𝚒𝚝𝚜 𝚎𝚡𝚊𝚖𝚙𝚕𝚎𝚜), 𝚋𝚞𝚝 𝚊𝚕𝚜𝚘 𝚏𝚘𝚛 𝚖𝚢 𝚜𝚘𝚕𝚘 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜. 
+𝙵𝚘𝚛 𝚊 𝚕𝚘𝚗𝚐 𝚝𝚒𝚖𝚎, 𝙸 𝚞𝚜𝚎𝚍 𝚊 𝚙𝚕𝚊𝚌𝚎𝚑𝚘𝚕𝚍𝚎𝚛 𝚌𝚘𝚛𝚛𝚎𝚜𝚙𝚘𝚗𝚍𝚒𝚗𝚐 𝚝𝚘 𝚖𝚢 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛'𝚜 𝚞𝚜𝚎𝚛𝚗𝚊𝚖𝚎 𝚊𝚜 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚊𝚍𝚍𝚛𝚎𝚜𝚜 𝚏𝚘𝚛 𝚌𝚘𝚖𝚖𝚒𝚝𝚜 𝚏𝚛𝚘𝚖 𝚑𝚘𝚖𝚎 (𝚎𝚡𝚊𝚖𝚙𝚕𝚎𝚜 𝚒𝚗 𝚖𝚢 𝚐𝚛𝚘𝚞𝚙 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚕𝚒𝚔𝚎 [𝚝𝚛𝚊𝚗𝚜𝚌𝚎𝚗𝚍𝚎𝚗𝚌𝚎](https://github.com/TheoZerbibi/ft_transcendence/commits/features/chat-api-front), [𝚠𝚎𝚋𝚜𝚎𝚛𝚟](https://github.com/nfauconn/webserv/commits/main/?after=5c8b935ed8f46b519540b5be971d9d9a484c6101+104), [𝚖𝚒𝚗𝚒𝚁𝚃](https://github.com/nfauconn/miniRT/commits/main/?before=5a107be071f3a7fd26b41d2ce0d43c9e08f411c3+70) 𝚊𝚗𝚍 𝚜𝚘𝚕𝚘 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚕𝚒𝚔𝚎 [𝚒𝚗𝚌𝚎𝚙𝚝𝚒𝚘𝚗](https://github.com/nfauconn/inception/commits/main/?after=67ee61357930b7dcb309609ab38f401732ed279f+34) 𝚘𝚛 [𝚌𝚙𝚙_𝚖𝚘𝚍𝚞𝚕𝚎𝚜](https://github.com/nfauconn/cpp/commits/main/?after=095a517d94e9b33269f24daf7d03885d1b27b7fd+104))
  
  𝚄𝚗𝚏𝚘𝚛𝚝𝚞𝚗𝚊𝚝𝚎𝚕𝚢, 𝚝𝚑𝚎𝚜𝚎 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜 𝚠𝚎𝚛𝚎 𝚗𝚘𝚝 𝚕𝚒𝚗𝚔𝚎𝚍 𝚝𝚘 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚊𝚌𝚌𝚘𝚞𝚗𝚝 𝚊𝚗𝚍 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚌𝚘𝚞𝚗𝚝𝚎𝚍 𝚒𝚗 𝚝𝚑𝚎 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝚐𝚛𝚊𝚙𝚑.
 
