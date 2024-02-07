@@ -38,3 +38,13 @@
 [𝙽𝚎𝚘𝚟𝚒𝚖](https://github.com/nfauconn/dotfiles/tree/main/archlinux/dotfiles/.config/nvim) | 𝙴𝚏𝚏𝚒𝚌𝚒𝚎𝚗𝚝 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛 𝚝𝚑𝚊𝚝 𝙸 𝚞𝚜𝚎 𝚏𝚘𝚛 𝚎𝚍𝚒𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚗𝚐 | ![lua](https://img.shields.io/badge/-Lua-%2323181717?logo=lua&logoColor=%232C2D72)
 [𝚅𝚒𝚖](https://github.com/nfauconn/dotfiles/blob/main/archlinux/dotfiles/.vimrc) | 𝙸'𝚟𝚎 𝚜𝚑𝚒𝚏𝚝𝚎𝚍 𝚏𝚛𝚘𝚖 𝚅𝚒𝚖, 𝚋𝚞𝚝 𝚜𝚝𝚒𝚕𝚕 𝚕𝚎𝚟𝚎𝚛𝚊𝚐𝚎 𝚒𝚝𝚜 𝚖𝚘𝚝𝚒𝚘𝚗𝚜 | ![Vim](https://img.shields.io/badge/-Vim-%2323181717?logo=vim&logoColor=%23019733)
 [𝙻𝚒𝚕𝚢𝟻𝟾](https://github.com/nfauconn/dotfiles/blob/main/lily58/lily58_r2g.layout.json) | 𝙲𝚘𝚖𝚙𝚊𝚌𝚝 𝚊𝚗𝚍 𝚎𝚛𝚐𝚘𝚗𝚘𝚖𝚒𝚌 𝙳𝙸𝚈 𝚜𝚙𝚕𝚒𝚝 𝚔𝚎𝚢𝚋𝚘𝚊𝚛𝚍, 𝚠𝚒𝚝𝚑 𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚋𝚕𝚎 𝚕𝚊𝚢𝚘𝚞𝚝 | ![JSON](https://img.shields.io/badge/-JSON-%2323181717?logo=json&logoColor=%23000000)
+
+## About My Contributions
+
+You might notice that the contribution graph on my profile does not reflect all of my development activity. This is due to incorrect email configuration in my local commits over the past years.
+
+For a long time, I used incorrect email addresses when working from home (e.g. in my last project [transcendence](https://github.com/TheoZerbibi/ft_transcendence/commits/features/chat-api-front), [in this branch](https://github.com/TheoZerbibi/ft_transcendence/commit/41730e49f734d40a0ce497c114cfd5fff3f80a8f.patch), [this branch](https://github.com/TheoZerbibi/ft_transcendence/commit/9e7c176c2236d59729d67859fec92044842d76f7.patch) or [that one](https://github.com/TheoZerbibi/ft_transcendence/commit/1ec14ec5506f997560ce70c030288f5f45dfe182.patch), in [webserv](https://github.com/nfauconn/webserv/commit/7fb764a6371e9ac2be98357696d25097ff14d856.patch), in [minishell]() every time I performed a fresh install of my system. Unfortunately, these contributions were not linked to my GitHub account and are not counted in the contribution graph.
+
+I want to clarify that even though these contributions are not visible, they have been an essential part of my learning journey and development experience. I have since corrected this configuration, and all future contributions should be correctly attributed to my profile.
+
+Thank you for understanding!
