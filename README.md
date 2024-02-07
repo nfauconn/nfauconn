@@ -12,20 +12,20 @@
 
 | 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 | 𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 | 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎
 |:--:|:--:| :--: |
-[𝚝𝚛𝚊𝚗𝚜𝚌𝚎𝚗𝚍𝚎𝚗𝚌𝚎](https://github.com/TheoZerbibi/ft_transcendence) | 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚠𝚎𝚋 𝚒𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎 𝚏𝚘𝚛 𝚊𝚗 𝚘𝚗𝚕𝚒𝚗𝚎 𝚐𝚊𝚖𝚎 | ![Typescript](https://img.shields.io/badge/-Typescript-%23181717?logo=typescript&logoColor=%233178C6)
-[𝚠𝚎𝚋𝚜𝚎𝚛𝚟](https://github.com/nfauconn/webserv) | 𝙷𝚃𝚃𝙿 𝚜𝚎𝚛𝚟𝚎𝚛 𝚏𝚛𝚘𝚖 𝚜𝚌𝚛𝚊𝚝𝚌𝚑 | ![C++](https://img.shields.io/badge/-c%2B%2B-%23181717?logo=c%2B%2B&logoColor=%2300599C)
-[𝚒𝚗𝚌𝚎𝚙𝚝𝚒𝚘𝚗](https://github.com/nfauconn/inception) | 𝙳𝚘𝚌𝚔𝚎𝚛-𝚋𝚊𝚜𝚎𝚍 𝚠𝚎𝚋 𝚒𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎 𝚏𝚛𝚘𝚖 𝚜𝚌𝚛𝚊𝚝𝚌𝚑 | ![Docker](https://img.shields.io/badge/-Docker-%23181717?logo=docker&logoColor=%232496ED)
-[𝙲𝙿𝙿 𝚖𝚘𝚍𝚞𝚕𝚎𝚜](https://github.com/nfauconn/cpp) | 𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝙲𝙿𝙿 | ![C++](https://img.shields.io/badge/-c%2B%2B-%23181717?logo=c%2B%2B&logoColor=%2300599C) |
-[𝚖𝚒𝚗𝚒𝚁𝚃](https://github.com/nfauconn/miniRT) | 𝚁𝚊𝚢𝚝𝚛𝚊𝚌𝚒𝚗𝚐-𝚋𝚊𝚜𝚎𝚍 𝟹𝙳 𝚒𝚖𝚊𝚐𝚎 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝚜𝚌𝚎𝚗𝚎 𝚛𝚎𝚗𝚍𝚎𝚛𝚒𝚗𝚐 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) |
+[𝚝𝚛𝚊𝚗𝚜𝚌𝚎𝚗𝚍𝚎𝚗𝚌𝚎](https://github.com/TheoZerbibi/ft_transcendence) | 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚠𝚎𝚋 𝚒𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎 𝚏𝚘𝚛 𝚊𝚗 𝚘𝚗𝚕𝚒𝚗𝚎 𝚐𝚊𝚖𝚎 | ![Typescript](https://img.shields.io/badge/-Typescript-%2323181717?logo=typescript&logoColor=%233178C6)
+[𝚠𝚎𝚋𝚜𝚎𝚛𝚟](https://github.com/nfauconn/webserv) | 𝙷𝚃𝚃𝙿 𝚜𝚎𝚛𝚟𝚎𝚛 𝚏𝚛𝚘𝚖 𝚜𝚌𝚛𝚊𝚝𝚌𝚑 | ![C++](https://img.shields.io/badge/-c%2B%2B-%2323181717?logo=c%2B%2B&logoColor=%2300599C)
+[𝚒𝚗𝚌𝚎𝚙𝚝𝚒𝚘𝚗](https://github.com/nfauconn/inception) | 𝙳𝚘𝚌𝚔𝚎𝚛-𝚋𝚊𝚜𝚎𝚍 𝚠𝚎𝚋 𝚒𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎 𝚏𝚛𝚘𝚖 𝚜𝚌𝚛𝚊𝚝𝚌𝚑 | ![Docker](https://img.shields.io/badge/-Docker-%2323181717?logo=docker&logoColor=%232496ED)
+[𝙲𝙿𝙿 𝚖𝚘𝚍𝚞𝚕𝚎𝚜](https://github.com/nfauconn/cpp) | 𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝙲𝙿𝙿 | ![C++](https://img.shields.io/badge/-c%2B%2B-%2323181717?logo=c%2B%2B&logoColor=%2300599C) |
+[𝚖𝚒𝚗𝚒𝚁𝚃](https://github.com/nfauconn/miniRT) | 𝚁𝚊𝚢𝚝𝚛𝚊𝚌𝚒𝚗𝚐-𝚋𝚊𝚜𝚎𝚍 𝟹𝙳 𝚒𝚖𝚊𝚐𝚎 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝚜𝚌𝚎𝚗𝚎 𝚛𝚎𝚗𝚍𝚎𝚛𝚒𝚗𝚐 | ![C](https://img.shields.io/badge/-c-%2323181717?logo=c) |
 [𝚗𝚎𝚝𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚎](https://github.com/nfauconn/netpractice) | 𝙿𝚛𝚊𝚌𝚝𝚒𝚌𝚊𝚕 𝚌𝚊𝚜𝚎𝚜 𝚘𝚏 𝚜𝚖𝚊𝚕𝚕 𝙸𝙿𝚟𝟺 𝚗𝚎𝚝𝚠𝚘𝚛𝚔𝚜 𝚌𝚘𝚗𝚏𝚒𝚐𝚞𝚛𝚊𝚝𝚒𝚘𝚗 | - |
-[𝚖𝚒𝚗𝚒𝚜𝚑𝚎𝚕𝚕](https://github.com/nfauconn/minishell) | 𝙱𝚊𝚜𝚑 𝙿𝙾𝚂𝙸𝚇 𝚌𝚘𝚖𝚙𝚕𝚒𝚊𝚗𝚝 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚒𝚗𝚝𝚎𝚛𝚙𝚛𝚎𝚝𝚘𝚛  | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) |
-[𝚙𝚑𝚒𝚕𝚘𝚜𝚘𝚙𝚑𝚎𝚛𝚜](https://github.com/nfauconn/philosophers) | 𝙿𝚛𝚘𝚋𝚕𝚎𝚖 𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚖𝚞𝚕𝚝𝚒𝚝𝚑𝚛𝚎𝚊𝚍𝚒𝚗𝚐 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) |
-[𝚖𝚒𝚗𝚒𝚝𝚊𝚕𝚔](https://github.com/nfauconn/minitalk) | 𝙱𝚒𝚝-𝚕𝚎𝚟𝚎𝚕 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚙𝚛𝚘𝚐𝚛𝚊𝚖 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) |
-[𝚜𝚘_𝚕𝚘𝚗𝚐](https://github.com/nfauconn/so_long) | 𝟸𝙳 𝚖𝚒𝚗𝚒 𝚐𝚊𝚖𝚎 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) |
-[𝚙𝚞𝚜𝚑_𝚜𝚠𝚊𝚙](https://github.com/nfauconn/push_swap) | 𝚂𝚘𝚛𝚝𝚒𝚗𝚐 𝚊𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) |
-[𝚏𝚝_𝚙𝚛𝚒𝚗𝚝𝚏](https://github.com/nfauconn/ft_printf) | 𝙲𝚞𝚜𝚝𝚘𝚖 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚙𝚛𝚒𝚗𝚝𝚏 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) |
-[𝚐𝚎𝚝_𝚗𝚎𝚡𝚝_𝚕𝚒𝚗𝚎](https://github.com/nfauconn/get_next_line) | 𝙲𝚞𝚜𝚝𝚘𝚖 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚐𝚎𝚝𝚕𝚒𝚗𝚎 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) |
-[𝚕𝚒𝚋𝚏𝚝](https://github.com/nfauconn/libft) | 𝙲𝚞𝚜𝚝𝚘𝚖 𝚜𝚝𝚊𝚗𝚍𝚊𝚛𝚍 𝙲 𝚕𝚒𝚋𝚛𝚊𝚛𝚢 | ![C](https://img.shields.io/badge/-c-%23181717?logo=c) |
+[𝚖𝚒𝚗𝚒𝚜𝚑𝚎𝚕𝚕](https://github.com/nfauconn/minishell) | 𝙱𝚊𝚜𝚑 𝙿𝙾𝚂𝙸𝚇 𝚌𝚘𝚖𝚙𝚕𝚒𝚊𝚗𝚝 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚒𝚗𝚝𝚎𝚛𝚙𝚛𝚎𝚝𝚘𝚛  | ![C](https://img.shields.io/badge/-c-%2323181717?logo=c) |
+[𝚙𝚑𝚒𝚕𝚘𝚜𝚘𝚙𝚑𝚎𝚛𝚜](https://github.com/nfauconn/philosophers) | 𝙿𝚛𝚘𝚋𝚕𝚎𝚖 𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚖𝚞𝚕𝚝𝚒𝚝𝚑𝚛𝚎𝚊𝚍𝚒𝚗𝚐 | ![C](https://img.shields.io/badge/-c-%2323181717?logo=c) |
+[𝚖𝚒𝚗𝚒𝚝𝚊𝚕𝚔](https://github.com/nfauconn/minitalk) | 𝙱𝚒𝚝-𝚕𝚎𝚟𝚎𝚕 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚙𝚛𝚘𝚐𝚛𝚊𝚖 | ![C](https://img.shields.io/badge/-c-%2323181717?logo=c) |
+[𝚜𝚘_𝚕𝚘𝚗𝚐](https://github.com/nfauconn/so_long) | 𝟸𝙳 𝚖𝚒𝚗𝚒 𝚐𝚊𝚖𝚎 | ![C](https://img.shields.io/badge/-c-%2323181717?logo=c) |
+[𝚙𝚞𝚜𝚑_𝚜𝚠𝚊𝚙](https://github.com/nfauconn/push_swap) | 𝚂𝚘𝚛𝚝𝚒𝚗𝚐 𝚊𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖 | ![C](https://img.shields.io/badge/-c-%2323181717?logo=c) |
+[𝚏𝚝_𝚙𝚛𝚒𝚗𝚝𝚏](https://github.com/nfauconn/ft_printf) | 𝙲𝚞𝚜𝚝𝚘𝚖 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚙𝚛𝚒𝚗𝚝𝚏 | ![C](https://img.shields.io/badge/-c-%2323181717?logo=c) |
+[𝚐𝚎𝚝_𝚗𝚎𝚡𝚝_𝚕𝚒𝚗𝚎](https://github.com/nfauconn/get_next_line) | 𝙲𝚞𝚜𝚝𝚘𝚖 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚐𝚎𝚝𝚕𝚒𝚗𝚎 | ![C](https://img.shields.io/badge/-c-%2323181717?logo=c) |
+[𝚕𝚒𝚋𝚏𝚝](https://github.com/nfauconn/libft) | 𝙲𝚞𝚜𝚝𝚘𝚖 𝚜𝚝𝚊𝚗𝚍𝚊𝚛𝚍 𝙲 𝚕𝚒𝚋𝚛𝚊𝚛𝚢 | ![C](https://img.shields.io/badge/-c-%2323181717?logo=c) |
 
 <h2> <img src="https://media3.giphy.com/media/9xuY0UvnJ05lJfTDhn/200w.webp?cid=ecf05e47h9yfawp7yzaarog55hmte4g86fem88kqqjti3vbu&ep=v1_gifs_related&rid=200w.webp&ct=s" width="30"></img> 𝙼𝚢 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝚃𝚘𝚘𝚕𝚜 </h2>
 
