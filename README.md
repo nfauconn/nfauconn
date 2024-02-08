@@ -41,7 +41,7 @@
 
 <h2> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ0ZzQ3aDhpa3U2emVjZTJncmpjMnkzb2JwZ3V6ajB4cGtvZHFjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hUvsE0Kh3mo36/giphy.gif" width="30"></img>  𝙰𝚋𝚘𝚞𝚝 𝙼𝚢 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜 </h2>
 
-𝙵𝚘𝚛 𝚊 𝚕𝚘𝚗𝚐 𝚝𝚒𝚖𝚎, 𝙸 𝚞𝚜𝚎𝚍 𝚊 𝚙𝚕𝚊𝚌𝚎𝚑𝚘𝚕𝚍𝚎𝚛 𝚌𝚘𝚛𝚛𝚎𝚜𝚙𝚘𝚗𝚍𝚒𝚗𝚐 𝚝𝚘 𝚖𝚢 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛'𝚜 𝚞𝚜𝚎𝚛𝚗𝚊𝚖𝚎 𝚊𝚜 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚊𝚍𝚍𝚛𝚎𝚜𝚜 𝚏𝚘𝚛 𝚌𝚘𝚖𝚖𝚒𝚝𝚜 𝚏𝚛𝚘𝚖 𝚑𝚘𝚖𝚎 (𝚎𝚡𝚊𝚖𝚙𝚕𝚎𝚜 𝚒𝚗 𝚖𝚢 𝚐𝚛𝚘𝚞𝚙 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 [𝚝𝚛𝚊𝚗𝚜𝚌𝚎𝚗𝚍𝚎𝚗𝚌𝚎](https://github.com/TheoZerbibi/ft_transcendence/commits/features/chat-api-front), [𝚠𝚎𝚋𝚜𝚎𝚛𝚟](https://github.com/nfauconn/webserv/commits/main/?after=5c8b935ed8f46b519540b5be971d9d9a484c6101+104), [𝚖𝚒𝚗𝚒𝚁𝚃](https://github.com/nfauconn/miniRT/commits/main/?before=5a107be071f3a7fd26b41d2ce0d43c9e08f411c3+70)).
+𝙵𝚘𝚛 𝚊 𝚕𝚘𝚗𝚐 𝚝𝚒𝚖𝚎, 𝙸 𝚞𝚜𝚎𝚍 𝚊 𝚙𝚕𝚊𝚌𝚎𝚑𝚘𝚕𝚍𝚎𝚛 𝚌𝚘𝚛𝚛𝚎𝚜𝚙𝚘𝚗𝚍𝚒𝚗𝚐 𝚝𝚘 𝚖𝚢 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛'𝚜 𝚞𝚜𝚎𝚛𝚗𝚊𝚖𝚎 𝚊𝚜 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚊𝚍𝚍𝚛𝚎𝚜𝚜 𝚏𝚘𝚛 𝚌𝚘𝚖𝚖𝚒𝚝𝚜 𝚏𝚛𝚘𝚖 𝚑𝚘𝚖𝚎 ([𝚎𝚡𝚎𝚖𝚙𝚕𝚎 𝟷 𝚒𝚗 𝚝𝚛𝚊𝚗𝚜𝚌𝚎𝚗𝚍𝚎𝚗𝚌𝚎](https://github.com/TheoZerbibi/ft_transcendence/commits/features/chat-api-front), [𝚎𝚡𝚎𝚖𝚙𝚕𝚎 𝟸 𝚒𝚗 𝚠𝚎𝚋𝚜𝚎𝚛𝚟](https://github.com/nfauconn/webserv/commits/main/?after=5c8b935ed8f46b519540b5be971d9d9a484c6101+104), [𝚎𝚡𝚎𝚖𝚙𝚕𝚎 𝟹 𝚒𝚗 𝚖𝚒𝚗𝚒𝚁𝚃](https://github.com/nfauconn/miniRT/commits/main/?before=5a107be071f3a7fd26b41d2ce0d43c9e08f411c3+70)).
  
  𝙸 𝚑𝚊𝚟𝚎 𝚜𝚒𝚗𝚌𝚎 𝚌𝚘𝚛𝚛𝚎𝚌𝚝𝚎𝚍 𝚝𝚑𝚒𝚜 𝚌𝚘𝚗𝚏𝚒𝚐𝚞𝚛𝚊𝚝𝚒𝚘𝚗, 𝚊𝚗𝚍 𝚊𝚕𝚕 𝚏𝚞𝚝𝚞𝚛𝚎 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜 𝚜𝚑𝚘𝚞𝚕𝚍 𝚋𝚎 𝚌𝚘𝚛𝚛𝚎𝚌𝚝𝚕𝚢 𝚊𝚝𝚝𝚛𝚒𝚋𝚞𝚝𝚎𝚍 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎.
 
