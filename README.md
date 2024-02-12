@@ -1,4 +1,4 @@
-[𝙵𝚁](https://gith𝙵𝚁ub.com/nfauconn/nfauconn/blob/main/README.fr.md)
+[𝙵𝚁](https://github.com/nfauconn/nfauconn/blob/main/README.fr.md)
 
 <h2> <img src="https://media0.giphy.com/media/bnzH3tEHjdDuU/giphy.webp?cid=ecf05e47j4g2yreyzwzndtpr0yx2011nsugqohj6e78d3k00&ep=v1_gifs_search&rid=giphy.webp&ct=s" height="30"> 𝙷𝚒, 𝙸'𝚖 𝙽𝚘𝚎 !</h2>
 
