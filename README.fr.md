@@ -5,7 +5,6 @@
 - 🎓 𝙴𝚝𝚞𝚍𝚒𝚊𝚗𝚝𝚎 𝚊̀ [𝙴𝚌𝚘𝚕𝚎 𝟺𝟸 𝙿𝚊𝚛𝚒𝚜](https://42.fr/en/homepage/)
 - 🏁 𝙹'𝚊𝚒 𝚝𝚎𝚛𝚖𝚒𝚗𝚎́ 𝚕𝚎 𝚝𝚛𝚘𝚗𝚌 𝚌𝚘𝚖𝚖𝚞𝚗 𝚍𝚎 𝟺𝟸
 - 📟 𝚄𝚝𝚒𝚕𝚒𝚜𝚊𝚝𝚛𝚒𝚌𝚎 𝚎𝚗𝚝𝚑𝚘𝚞𝚜𝚒𝚊𝚜𝚝𝚎 𝚍𝚎 𝙻𝚒𝚗𝚞𝚡
-- 🔦 𝙴𝚗 𝚌𝚑𝚎𝚖𝚒𝚗 𝚟𝚎𝚛𝚜 𝚞𝚗𝚎 𝚜𝚙𝚎́𝚌𝚒𝚊𝚕𝚒𝚜𝚊𝚝𝚒𝚘𝚗 𝚎𝚗 𝚌𝚢𝚋𝚎𝚛𝚜𝚎́𝚌𝚞𝚛𝚒𝚝𝚎́
 - 🎮 𝙼𝚞𝚜𝚒𝚚𝚞𝚎 • 𝙹𝚎𝚞𝚡 • 𝙲𝚘𝚍𝚊𝚐𝚎 • 𝙰𝚛𝚝 𝚒𝚗𝚝𝚎𝚛𝚗𝚎𝚝 • 𝙰𝚗𝚒𝚖𝚎 • 𝙵𝚒𝚕𝚖𝚜
 
 <h2> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlqcGp3a2xoNGJiNHlwc2Jkd3EzY3plZTc2dTZyaDJ0OWFianZjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFy6JPjkjM9GDHykZo/giphy.gif" width="50"></img> 𝙼𝚎𝚜 𝚍𝚎𝚛𝚗𝚒𝚎̀𝚛𝚎𝚜 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚎́𝚜 𝚜𝚞𝚛 𝙶𝚒𝚝𝙷𝚞𝚋 </h2>
