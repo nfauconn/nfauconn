@@ -3,7 +3,7 @@
 <h2> <img src="https://media0.giphy.com/media/bnzH3tEHjdDuU/giphy.webp?cid=ecf05e47j4g2yreyzwzndtpr0yx2011nsugqohj6e78d3k00&ep=v1_gifs_search&rid=giphy.webp&ct=s" height="30"> 𝙷𝚒, 𝙸'𝚖 𝙴𝚍𝚎𝚗 !</h2>
 
 - 🎓 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚝 [𝙴𝚌𝚘𝚕𝚎 𝟺𝟸 𝙿𝚊𝚛𝚒𝚜](https://42.fr/en/homepage/)
-- 🏁 𝙵𝚒𝚗𝚒𝚜𝚑𝚎𝚍 𝚝𝚑𝚎 𝚌𝚘𝚖𝚖𝚘𝚗 𝚌𝚘𝚛𝚎
+- 🧑🏻‍💻 𝙰𝚙𝚙𝚛𝚎𝚗𝚝𝚒𝚌𝚎𝚜𝚑𝚒𝚙 (𝙱𝚊𝚌𝚔-𝙴𝚗𝚍 𝙳𝚎𝚟) 𝚊𝚝 [𝙰𝚜𝚝𝚛𝚊𝚗](https://www.astran.io/)
 - 📟 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝𝚒𝚌 𝙻𝚒𝚗𝚞𝚡 𝚞𝚜𝚎𝚛
 - 🎮 𝙼𝚞𝚜𝚒𝚌 • 𝙶𝚊𝚖𝚎𝚜 • 𝙲𝚘𝚍𝚎 • 𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝 𝙰𝚛𝚝 • 𝙰𝚗𝚒𝚖𝚎 • 𝙼𝚘𝚟𝚒𝚎𝚜
 
