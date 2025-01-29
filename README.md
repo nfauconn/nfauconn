@@ -1,5 +1,3 @@
-[𝙵𝚁](https://github.com/nfauconn/nfauconn/blob/main/README.fr.md)
-
 <h2> <img src="https://media0.giphy.com/media/bnzH3tEHjdDuU/giphy.webp?cid=ecf05e47j4g2yreyzwzndtpr0yx2011nsugqohj6e78d3k00&ep=v1_gifs_search&rid=giphy.webp&ct=s" height="30"> 𝙷𝚒, 𝙸'𝚖 𝙴𝚍𝚎𝚗 !</h2>
 
 - 🎓 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚝 [𝙴𝚌𝚘𝚕𝚎 𝟺𝟸 𝙿𝚊𝚛𝚒𝚜](https://42.fr/en/homepage/)
